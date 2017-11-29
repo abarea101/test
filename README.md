@@ -1,2 +1,2 @@
 # test
-Repository created to test functionality
+Repository created only to test its functionality.
